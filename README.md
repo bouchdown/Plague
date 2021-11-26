@@ -1,139 +1,49 @@
 -----
 
 <p align="center">
-<img src="link", width="500", height="500">
+<img src="https://repository-images.githubusercontent.com/430853217/b9e21ff2-b3eb-4775-a261-f9d83d4ee862", width="500", height="500">
 </p>
 
 -----
 
-### <p align="center">🌍 Title 🌍</p>
+### <p align="center">☣️ Plague ☣️</p>
 
 <br><br>
 <p align="center">
 <strong>
-text
+Plague is a Discord token grabber written in Python3, obfuscated with <a href="https://github.com/billythegoat356/Kramer">Kramer</a>, protected from traffic analysers with
 <br>
-text
+<a href="https://github.com/billythegoat356/Scarecrow">Scarecrow</a> and using the <a href="https://github.com/billythegoat356/Riot">Riot</a> token grabber, which moves himself
+<br>
+to the computer startup, and token grabs the victim in background, sending the new token if the password is changed.
 <br><br><br>
 </strong>
-<img src="link" width="750", height="400">
+<img src="https://cdn.discordapp.com/attachments/892840615732195340/913913021275975730/unknown.png" width="275", height="350">
 </p>
 <br>
-
------
-
-### <p align="center">📋 Examples 📋</p>
-
-<br><br>
-`randomClass.randomFunc(randomArg)` -> `hello world!`
-<br><br>
-`randomClass2.randomFunc2(randomArg2)` -> `hey! how are you?`
-<br>
-
-
-OR
-
-
-<br><br>
-**Unobfuscated**:<br>
-```python3
-unobfuscated code
-```
-<br><br>
-**Obfuscated**:<br>
-```python3
-obfuscated code
-```
-
-OR
-
-
-<br><br>
-<p align="center">
-text
-<br><br><br>
-<img src="link" width="500", height="500">
-</p>
-<br><br><br>
-
-
-OR
-
-
-<br><br><br>
-<p align="center">
-<img src="link" width="500", height="500">
-<br><br>
-to
-<br><br>
-<img src="link" width="500", height="500">
-</p>
-<br><br><br>
-
------
-
-### <p align="center">📚 Documentation 📚</p>
-
-<p align="center"><strong><i>If you encounter any problem while using this program, create an issue on this repository and I will help you.
-<br>
-Also, please use this program only for educational purposes, and don't forget; great power comes with great responsibility.</i></strong>
-</p>
- 
-<br><br>
-
-<p align="center">
-<img src="link", width="500", height="500">  
-</p>
-  
-<br><br>
-
-First of all, you have to install Python3 AND 'pip'. Then run the `setup.bat` file.
-It will install you the necessary libraries for the program.  
-  
-name contains two parts:
-  - Client
-  - Server (hosted by me, don't touch it unless you are a developper)
-  
-**1: Client**
-<p align="center">
-<img src="link", width="250", height="250">  
-</p>
-text
-text
-
-<br><br>
- 
-**2: Server**
-<p align="center">
-<img src="link", width="250", height="250">  
-</p>
-text
-text
- 
-<br><br>
 
 -----
 
 ### <p align="center">⭐ Features ⭐</p>
 
 <br><br>
-<strong>+ plus</strong>
+<strong>+ Fast</strong>
 <br>
-<strong>+ plus</strong>
+<strong>+ Extreme obfuscation</strong>
 <br>
-<strong>+ plus</strong>
+<strong>+ Protected from traffic analysers</strong>
+<br>
+<strong>+ Moving to the computer's startup</strong>
+<br>
+<strong>+ Sending the new token if the password is changed</strong>
 <br>
 
 <p align="right">
-<img src="link" width="250", height="250">
+<img src="https://repository-images.githubusercontent.com/430853217/b9e21ff2-b3eb-4775-a261-f9d83d4ee862" width="250", height="250">
 </p>
 
 <br>
-<strong>- minus</strong>
-<br>
-<strong>- minus</strong>
-<br>
-<strong>- minus</strong>
+<strong>- Cannot be compiled to executable (with PyInstaller or Nuitka)</strong>
 <br><br>
 
 -----
@@ -156,37 +66,9 @@ text
 <p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
 
 <br><br>
-* idea
-* idea
+* Make the obfuscation even better
 <br><br>
 
------
-
-### <p align="center">⚠️ Restrictions ⚠️</p>
-
-<p align="center"><strong><i>This program has some restrictions, in order to prevent malicious attacks.</i></strong</p>
-
-<br><br>
-* 1
-* 2
-<br><br>
-
------
-  
-### <p align="center">🎨 Contributors 🎨</p>
-
-<br><br>
-* [user](link) | Part
-<br><br>
-  
------
-  
-### <p align="center">🪓 Deobfuscators 🪓</p>
-
-<br><br>
-* [title](link) by [user](link) | Language
-<br><br>
-  
 -----
 
 ### <p align="center">📌 Disclaimer 📌</p>
