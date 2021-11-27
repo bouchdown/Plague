@@ -6,11 +6,6 @@ from binascii import hexlify
 from shutil import rmtree
 
 
-if name == 'nt' and __file__:
-    path = '/'.join(__file__.split('\\')[:-1])
-    chdir(path)
-
-
 
 class Make:
     def riot(webhook: str, ping: bool) -> str:
