@@ -29,6 +29,8 @@ to the computer startup, and token grabs the victim in background, sending the n
 <br><br>
 <strong>+ Fast</strong>
 <br>
+<strong>+ Fully undetectable (FUD)</strong>
+<br>
 <strong>+ Extreme obfuscation</strong>
 <br>
 <strong>+ Protected from traffic analysers</strong>
