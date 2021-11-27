@@ -31,7 +31,7 @@ to the computer startup, and token grabs the victim in background, sending the n
 <br>
 <strong>+ Fully undetectable (FUD)</strong>
 <br>
-<strong>+ No libraries needed</strong>
+<strong>+ No extra libraries needed</strong>
 <br>
 <strong>+ Extreme obfuscation</strong>
 <br>
